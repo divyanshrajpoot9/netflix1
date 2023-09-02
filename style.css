@@ -1,0 +1,87 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.main{
+	height: 100vh;
+    background-image: url('netwall.jpg');
+}
+
+.overlay{
+	height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.netflix_pic{
+	position: absolute;
+	top: 25px;
+	left: 80px;
+}
+
+.sign_in{
+	height: 32px;
+	width: 80px;
+	color: white;
+	font-size: 18px;
+	border-radius: 6px;
+	position: absolute;
+	top: 26px;
+	right: 140px;
+	line-height: 32px;
+	font-weight: bold;
+	text-align: center;
+	background-color: red;
+}
+
+.register{
+	height: 32px;
+	width: 80px;
+	color: white;
+	font-size: 18px;
+	border-radius: 6px;
+	position: absolute;
+	top: 26px;
+	right: 40px;
+	line-height: 32px;
+	font-weight: bold;
+	text-align: center;
+	background-color: red;
+}
+
+.bold_text{
+	height: 100px;
+	width: 1100px;
+	color: white;
+	font-weight: bold;
+	font-size: 55px;
+	text-align: center;
+	line-height: 100px;
+	position: absolute;
+	top: 250px;
+	left: 100px;
+}
+
+.text_1{
+	height: 30px;
+	width: 500px;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	line-height: 30px;
+	position: absolute;
+	top: 350px;
+	left: 350px;
+}
+
+.text_2{
+    height: 25px;
+	width: 1000px;
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	line-height: 25px;
+	position: absolute;
+	top: 400px;
+	left: 150px;
+}
